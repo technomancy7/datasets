@@ -261,3 +261,6 @@ Starstep - ECHO
 Starstep - Manifest
 Starstep - Where the skies end
 Starstep - Other worlds than these
+Starstep - Down with the fallen
+Starstep - Carnivore
+Starstep - My Demons

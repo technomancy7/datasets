@@ -38,6 +38,7 @@ NF - Outcast
 NF - No name
 NF - Only
 NF - Time
+NF - Paralyzed
 7th dragon 2020 decisive battle
 7th Dragon 2020 26 Daiba Freezing Town
 7th dragon 2020-II ost - Roppongi - Fused City

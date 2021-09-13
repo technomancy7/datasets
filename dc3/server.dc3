@@ -1,0 +1,53 @@
+DATA name = Server Information
+DATA channel = 536682142747459595
+
+UPLOAD img/dxhq.jpg
+UPLOAD img/line.png
+
+BEGIN
+**Welcome to DXHQ: The community-led forum and source for everything related to the Deus Ex franchise, including single player, multiplayer, co-op and discussion on the Deus Ex series as a whole, including modding, still to this day creating new content!**
+SEND
+UPLOAD img/line.png
+UPLOAD img/fasttravel.png
+UPLOAD img/line.png
+BEGIN
+**Download multiplayer, co-op, fixes and mod tools**: <#396821109498183680>
+**Give yourself a role**: <#627123381178728458>
+**Arrange or join a multiplayer match**: <#397082103721885696>
+**Arrange or join a co-op session**: <#413145099787304960>
+**Discussions for content creation**: <#396827090407784449> or <#396827120879534090>
+**Need help with anything technical?**: <#397482321286135829>
+**Discussions of other games, including our community playing old-school Doom**: <#404327658424369162>
+
+For any additional help regarding the server feel free to drop a message in <#396716932436328468>, or DM an administrator.
+SEND
+UPLOAD img/line.png
+UPLOAD img/serverrules.png
+UPLOAD img/line.png
+BEGIN
+We generally try not to be overly strict here, we want to create a place where people can discuss as openly as they wish, but there are a few guidelines (some channel specific) that users should follow to keep things peaceful for everyone.
+-
+SEND
+BEGIN
+**Don't make it personal.**
+- Keep personal attacks and insults to yourself, this includes racial slurs, obscenities, hate speech, discriminatory language and attacking peoples character.
+**Don't spam the server.**
+- As you can see we have a generous amount of channels here, we ask that you try to stay on topic and help to keep things clean.  If you have an urge to shitpost or post memes, use the <#721484516778311801> (dedicated memes channel), <#396835002010042368>  (general images and video) or <#396779449779093505> (playing with our robots), keep such things out of the <#396716932436328468> as this is the main channel and is meant for everyday discussions that don't fit neatly into other channels.
+**Don't interrupt discussions.**
+- If there are live ongoing conversations that people are invested in, don't butt in with an entirely different unrelated topic, either try to find another suitable channel or open a new thread (`#` icon at the top of the channel).
+**Don't be an ass.**
+- Self-explanatory, in general try to be respectful to other users and of the server rules, don't be an edgelord for the sake of it, nobody thinks your funny.
+- We will not tolerate any form of suicide baiting; don't be the type to threaten killing yourself or telling others to do so, it's not cool.
+- We will not tolerate political baiting either; we don't care if you think X political group is bad guys, keep it to yourself or your 4chan /pol/ board.
+**No illegal content.**
+- Again, self-explanatory, but don't share pirate links and other things of the like, and don't encourage piracy or illegal acts.
+**Names and Avatars.**
+- Avoid offensive or inappropriate names and avatars that blatantly break the guidelines. Nobody wants to see it. If you won't remove them, we'll remove you. 💙
+END
+UPLOAD img/line.png
+BEGIN
+If you have an issue with the rules or another user, please ping or DM an admin with evidence if necessary so we can help deal with it.
+
+Enforcement is a case by case system, generally 3 warnings and you're out.
+END
+FINISH

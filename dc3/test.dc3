@@ -6,7 +6,7 @@ COMMENT begin creates a new message object, any line is then added to it, send c
 BEGIN
 This is a test first message
 SEND
-UPLOAD tests/Shot0000.bmp
+UPLOAD audio/ERo0AP3qMEE.mp3
 BEGIN
 This is the second message
 SEND

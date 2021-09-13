@@ -1,0 +1,13 @@
+COMMENT data sets a value in the object
+DATA name = Testfile
+DATA channel = 886942239497019453
+DATA author = Kaiser
+COMMENT begin creates a new message object, any line is then added to it, send commits the stored message
+BEGIN
+This is a test first message
+SEND
+UPLOAD audio/zrphErXWW80.mp3
+BEGIN
+This is the second message
+FINISH
+COMMENT finish completes the task, any stored message objects are committed and the script ends

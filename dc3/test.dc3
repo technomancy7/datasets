@@ -9,5 +9,6 @@ SEND
 UPLOAD audio/zrphErXWW80.mp3
 BEGIN
 This is the second message
+SEND
 FINISH
-COMMENT finish completes the task, any stored message objects are committed and the script ends
+COMMENT finish completes the task, the script ends
